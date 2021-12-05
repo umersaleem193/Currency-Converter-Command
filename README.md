@@ -28,7 +28,7 @@ Make sure to have installed the following pre-requisites for a development setup
 
 2. Build the application after installing the packages, output should be successful with no errors.
 3. Navigate in the folder **CurrencyConverterConsole\bin\Debug\net5.0** and start command prompt.
-4. Type **dotnet CurrencyConverterConsole.dll [InputFilePath]** e.g. (C:\Users\Dev\Documents\currencies_output.csv) and then press Enter.
+4. Type **dotnet CurrencyConverterConsole.dll [InputFilePath]**  (Where InputFilePath can be like C:\Users\Dev\Documents\currencies_output.csv) and then press Enter.
 5. If currencies_input.csv will be provided it will output currencies_output.csv
 6. If currencies_historical_input.csv will be provided it will output currencies_historical_output.csv
 7. Output files will be placed in the same path as input files.
