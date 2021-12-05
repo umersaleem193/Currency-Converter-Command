@@ -22,9 +22,9 @@ Make sure to have installed the following pre-requisites for a development setup
 
 # Loading the project
 1. Install the following Nuget packages from the visual studio's nuget package manager:
-  -> NewtonSoft.Json
-  -> CSVHelper
-  -> NUnit 
+  a. NewtonSoft.Json
+  b. CSVHelper
+  c. NUnit 
 
 2. Build the application after installing the packages, output should be successful with no errors.
 3. Navigate in the folder **CurrencyConverterConsole\bin\Debug\net5.0** and start command prompt.
